@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_applicability">
+    <sys_ux_applicability action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <api_name>x_1912136_iplookup.IPLookup Audience</api_name>
+        <description/>
+        <name>IPLookup Audience</name>
+        <role_names/>
+        <roles name="x_1912136_iplookup.agent">5e3c694f470332103b25eee3716d434c</roles>
+        <sys_class_name>sys_ux_applicability</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-02-18 11:44:08</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>263c694f470332103b25eee3716d43c7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>IPLookup Audience</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="IPLookup" source="x_1912136_iplookup">ad3ce54f470332103b25eee3716d43fc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPLookup">ad3ce54f470332103b25eee3716d43fc</sys_scope>
+        <sys_update_name>sys_ux_applicability_263c694f470332103b25eee3716d43c7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-02-18 11:44:08</sys_updated_on>
+    </sys_ux_applicability>
+</record_update>

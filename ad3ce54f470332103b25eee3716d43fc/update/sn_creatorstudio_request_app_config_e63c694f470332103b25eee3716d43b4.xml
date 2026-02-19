@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_creatorstudio_request_app_config">
+    <sn_creatorstudio_request_app_config action="INSERT_OR_UPDATE">
+        <color>grouped-blue</color>
+        <icon>vacation-outline</icon>
+        <is_deleting>false</is_deleting>
+        <name>IPLookup</name>
+        <request_table>x_1912136_iplookup_request</request_table>
+        <sys_class_name>sn_creatorstudio_request_app_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-02-18 11:44:08</sys_created_on>
+        <sys_id>e63c694f470332103b25eee3716d43b4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>IPLookup</sys_name>
+        <sys_package display_value="IPLookup" source="x_1912136_iplookup">ad3ce54f470332103b25eee3716d43fc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPLookup">ad3ce54f470332103b25eee3716d43fc</sys_scope>
+        <sys_update_name>sn_creatorstudio_request_app_config_e63c694f470332103b25eee3716d43b4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-02-18 11:44:08</sys_updated_on>
+    </sn_creatorstudio_request_app_config>
+</record_update>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="fd6c2d4f470332103b25eee3716d43b0" sys_domain="global" table="x_1912136_iplookup_request" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-02-18 11:44:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>396ca18f470332103b25eee3716d433b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1912136_iplookup_request" name="x_1912136_iplookup_request" sys_domain="global" view="Default view">fd6c2d4f470332103b25eee3716d43b0</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_1912136_iplookup_request" sys_domain="global" view="Default view">f56c2d4f470332103b25eee3716d43b6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-02-18 11:44:54</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-02-18 11:44:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f96ca18f470332103b25eee3716d4369</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1912136_iplookup_request" name="x_1912136_iplookup_request" sys_domain="global" view="Default view">fd6c2d4f470332103b25eee3716d43b0</sys_ui_form>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_1912136_iplookup_request" sys_domain="global" view="Default view">f96ca18f470332103b25eee3716d433c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-02-18 11:44:54</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1912136_iplookup_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-02-18 11:44:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fd6c2d4f470332103b25eee3716d43b0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1912136_iplookup_request</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="IPLookup" source="x_1912136_iplookup">ad3ce54f470332103b25eee3716d43fc</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IPLookup">ad3ce54f470332103b25eee3716d43fc</sys_scope>
+            <sys_update_name>sys_ui_form_sections_fd6c2d4f470332103b25eee3716d43b0</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-02-18 11:44:54</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
